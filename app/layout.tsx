@@ -17,10 +17,10 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "Your Name | Portfolio",
-    template: "%s | Your Name",
+    default: "Marcus Khoo | Portfolio",
+    template: "%s | Marcus Khoo",
   },
-  description: "Professional portfolio and resume website for Your Name.",
+  description: "Marcus Khoo's Vanity.",
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
