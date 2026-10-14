@@ -16,6 +16,7 @@ export const profile: Profile = {
 export const navItems: NavItem[] = [
   { label: "Home", href: "/" },
   { label: "Portfolio", href: "/portfolio" },
+  { label: "Beyond Work", href: "/affiliates" },
 ];
 
 export const skills: SkillGroup[] = [
